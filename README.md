@@ -70,3 +70,10 @@ FLAGS
 NOTES
     You can also use flags syntax for POSITIONAL ARGUMENTS
 ```
+## 📬 Contact
+
+Have questions or want to contribute?
+
+- **Telegram**: [@somerwork](https://t.me/somerwork)
+- **Donate(BTC)**: bc1q43u0n865fuxc4j2vgm4wp98xuuaawgkgq8yrf4
+---
